@@ -9,6 +9,8 @@ For a good user experience, people need to be able to find what they're looking 
 
 Optimal Workshop has a dedicated tree testing tool called Treejack. You upload a spreadsheet mapping out the navigation structure you want to test, it creates the test and stores and charts the results for you. Optimal Workshop is expensive however (and the free trial is very restrictive, only allowing you to get 10 responses to any one tree test). So I used the free tier of [Maze](https://maze.design) to do the same job. Here's how. 
 
+Let's imagine we're testing a website for recruiting 
+
 The Curse of Knowledge 
 
 We naturally become very familiar with what we're working on while we work on it. For website creators, this means we come to know its content inside-out. We know exactly how it fits together. And we know the business . We're spending day after day reviewing content, polishing designs, 
