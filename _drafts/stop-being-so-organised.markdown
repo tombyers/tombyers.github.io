@@ -3,6 +3,7 @@ title: Stop being so organised.
 date: 2019-06-03 17:05:00 Z
 ---
 
+
 * this is a fundamental topic. relates to premature abstraction, dropdowns, hiding options in UX, all of which have been covered before. but it's an important one, so I'll tackle it from a different angle.
 
 * the mess gives me clues
@@ -42,3 +43,15 @@ The designer has organised them as follows:
 * Archive | Current
 
 There's only 1 or 2 files in each folder - about 12 variants overall. Think how much easier it would be to just scan a list, especially if that list has other information: thumbnail, recently updated, file type
+
+Can be applied to everything:
+
+* how you organise your companies filing system
+
+* how you let people browse your online shop
+
+* how you organise your garage
+
+* how you organise your components in your codebase
+
+The Curse of Knowledge - you might think really carefully about the labels you give groups. They might be really logical. But the Curse of Knowldge still applies; you still know *why* they're logical given the circumstances. Someone else still has to go to the effort of reading the labels, understanding what they mean (in the context of what they're trying to do, not understanding what the options / underlying data is). There's still every potential for really well-considered group names to slow people down. And in my experience, coming up with really well-considered names is not how most people spend their time at work.
