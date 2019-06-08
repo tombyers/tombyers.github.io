@@ -5,15 +5,41 @@ tags:
 - usability test
 ---
 
-For a good user experience, people need to be able to find what they're looking for on your website. This is harder to achieve than it might sound. And without a frame of reference, it's very hard for us to know if we're achieving it or not. 
+## Structure
 
-Optimal Workshop has a dedicated tree testing tool called Treejack. You upload a spreadsheet mapping out the navigation structure you want to test, it creates the test and stores and charts the results for you. Optimal Workshop is expensive however (and the free trial is very restrictive, only allowing you to get 10 responses to any one tree test). So I used the free tier of [Maze](https://maze.design) to do the same job. Here's how. 
+* Findability
 
-Let's imagine we're testing a website for recruiting 
+* Curse of Knowledge: we can't unknow what we know. So we have to find other ways to understand what is / isn't intuitive to external viewers.
 
-The Curse of Knowledge 
+* UX techniques intro: card sorting & tree testing
 
-We naturally become very familiar with what we're working on while we work on it. For website creators, this means we come to know its content inside-out. We know exactly how it fits together. And we know the business . We're spending day after day reviewing content, polishing designs, 
+* Tree testing: Isolating navigation
+
+* How can we collect results at scale? => Maze
+
+* Examples in the wild e.g. Gov.uk
+
+## **Findability**
+
+For a good user experience, people need to be able to find what they're looking for on your website. This is harder to achieve than it might sound. And without a frame of reference, it's very hard for us to know if we're achieving it or not.
+
+We can't rely on search.
+
+## **The 'Curse of Knowledge'**
+
+We naturally become very familiar with what we're working on while we work on it. For website creators, this means we come to know its content inside-out. We know exactly how it fits together. And we know the business . We're spending day after day reviewing content, polishing designs,
+
+## **Card sorting & tree testing**
+
+Can I animate a visualisation of this??
+
+Card sorting and tree testing are two sides of the same coin.
+
+Optimal Workshop has a dedicated tree testing tool called Treejack. You upload a spreadsheet mapping out the navigation structure you want to test, it creates the test and stores and charts the results for you. Optimal Workshop is expensive however (and the free trial is very restrictive, only allowing you to get 10 responses to any one tree test). So I used the free tier of [Maze](https://maze.design) to do the same job. Here's how.
+
+Let's imagine we're testing a website for recruiting
+
+The Curse of Knowledge
 
 Given that every organisation seems to struggle with effective sharing of information (at my last job, a colleague described saving something to our Sharepoint as 'soft delete'), I can imagine that tree testing would be a very useful way of addressing this.
 
