@@ -1,7 +1,6 @@
 ---
 title: Russell Davies on Planners and Planning
 date: 2019-07-11 07:20:00 Z
-published: false
 ---
 
 https://vimeo.com/99675815
