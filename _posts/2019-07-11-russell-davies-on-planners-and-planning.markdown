@@ -5,7 +5,7 @@ date: 2019-07-11 07:20:00 Z
 
 > "Planning was one of the things that advertising invented that will outlive advertising. It basically invented a discipline that requires you to be good at synthesising lots of different information, condensing it, understanding it and representing it in a way such that people do stuff. That's a really useful skill in large organisations. It's a useful thing generally."
 
----
+![Russell Davies on Planners and Planning](/uploads/Screenshot%202019-07-12%20at%2020.15.16.png)
 
 I got a lot out of watching [this interview](https://vimeo.com/99675815) with Russell Davies. It's about planners and planning.
 
