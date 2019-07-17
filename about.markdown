@@ -4,6 +4,8 @@ date: 2019-05-31 16:01:00 Z
 layout: page
 ---
 
+![tom byers headshot.jpg](/uploads/tom%20byers%20headshot.jpg)
+
 Hello, I'm Tom Byers. 
 
 I'm a user experience designer. I work at [Sensyne Health](https://www.sensynehealth.com) in Oxford, designing software used by NHS clinicians and patients. Software that's *actually* nice and easy to use. 
