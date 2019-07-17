@@ -12,6 +12,8 @@ I'm a user experience designer. I work at [Sensyne Health](https://www.sensynehe
 
 Before Sensyne Health, I was a product designer and frontend developer at [Repositive](https://repositive.io). Repositive is a social enterprise helping researchers find and access genomic data. I've also had roles in market research, business development, sales and marketing at companies like [Hubl](http://www.hubl.co.uk), an early-stage logistics startup, and [Nuun Hydration](https://nuunlife.com), an American sports nutrition brand.
 
+# My approach
+
 I like to take a hypothesis-led approach to design work. In practice, this means laying out design decisions like this:
 
 * Because we think that **this** is true...
