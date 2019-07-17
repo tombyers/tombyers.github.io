@@ -15,8 +15,8 @@ Before Sensyne Health, I was a product designer and frontend developer at [Repos
 I like to take a hypothesis-led approach to design work. In practice, this means laying out design decisions like this:
 
 * Because we think that **this** is true...
-* We think that doing **this**...
-* Will mean that **this** will happen.
+* we think that by doing **this**...
+* **this** thing will happen.
 * We'll know that this is true / false when we see **this** indicator change.
 
 I like this approach not just because I think it's the best, most focused way to improve a design. It's also because it makes collaboration easiest. It gives everyone a shared understanding of the problem and the priority. It provides a framework for people to debate their preferred solutions. And it helps document decisions in an agile design process.
