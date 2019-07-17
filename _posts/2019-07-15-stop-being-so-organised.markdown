@@ -1,6 +1,6 @@
 ---
 title: Stop being so organised.
-date: 2019-06-03 17:05:00 Z
+date: 2019-07-15 00:00:00 Z
 ---
 
 Sometimes, after things have been 'tidied up', the only person who can actually find what they need is the one that did the tidying.
