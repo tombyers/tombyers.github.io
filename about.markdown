@@ -12,8 +12,13 @@ I'm a user experience designer. I work at [Sensyne Health](https://www.sensynehe
 
 Before Sensyne Health, I was a product designer and frontend developer at [Repositive](https://repositive.io). Repositive is a social enterprise helping researchers find and access genomic data. I've also had roles in market research, business development, sales and marketing at companies like [Hubl](http://www.hubl.co.uk), an early-stage logistics startup, and [Nuun Hydration](https://nuunlife.com), an American sports nutrition brand.
 
-I like to take a hypothesis-led approach to design work. 
+I like to take a hypothesis-led approach to design work. In practice, this means laying out design decisions like this:
 
-My design work tends to be structured and hypothesis-led, with a strong emphasis on usability testing. This isn't just because I think it's the best way to improve a design (although I do). It's also because it makes collaboration easiest. It gives everyone a shared understanding of the problem and the priority. It provides a framework for people to debate their preferred solutions. And it helps document decisions in an agile design process.
+* Because we think that **this** is true...
+* We think that doing **this**...
+* Will mean that **this** will happen.
+* We'll know that this is true / false when we see **this** indicator change.
 
-{{site.twitter}}
+I like this approach not just because I think it's the best, most focused way to improve a design. It's also because it makes collaboration easiest. It gives everyone a shared understanding of the problem and the priority. It provides a framework for people to debate their preferred solutions. And it helps document decisions in an agile design process.
+
+I also place a strong emphasis on usability testing.
