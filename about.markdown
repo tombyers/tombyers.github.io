@@ -16,7 +16,7 @@ Before Sensyne Health, I was a product designer and frontend developer at [Repos
 
 # My approach
 
-I like to take a hypothesis-led approach to design work. In practice, this means laying out design decisions like this:
+I like to take a hypothesis-led approach to design work. In practice, this simply means laying out design decisions like this:
 
 * Because we think that **this** is true...
 
