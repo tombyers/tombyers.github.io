@@ -5,3 +5,4 @@ tags:
 - repositive
 ---
 
+https://www.science-practice.com/teams/bio-design/case-studies/bridging-data-silos/
