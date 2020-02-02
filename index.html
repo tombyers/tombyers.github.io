@@ -16,6 +16,11 @@ layout: default
         </h2>
       </li>
     {% endfor %}
+  </ul>
+  
+  <h1 class="page-heading">Work</h1>
+  
+  <ul>    
     {% for work in site.work %}
       <li>
         <span class="post-meta">{{ work.date | date: "%b %-d, %Y" }}</span>
