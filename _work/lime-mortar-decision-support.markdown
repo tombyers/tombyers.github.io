@@ -1,5 +1,5 @@
 ---
-title: Rapid prototyping a decision support tool for work on heritage buildings
+title: Rapid prototyping a decision support tool for working on heritage buildings
 date: 2020-02-02 19:56:00 Z
 layout: post
 ---
