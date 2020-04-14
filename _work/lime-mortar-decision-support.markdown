@@ -4,8 +4,6 @@ date: 2020-02-02 19:56:00 Z
 layout: post
 ---
 
-![lime-mortar-prototype-flush.png](/uploads/lime-mortar-prototype-flush.png)
-
 ![lime-mortar-prototype-large-compressor.jpg](/uploads/lime-mortar-prototype-large-compressor.jpg)
 
 [View the site](https://uselimemortar.com/)
