@@ -6,6 +6,8 @@ layout: post
 
 ![lime-mortar-prototype-flush.png](/uploads/lime-mortar-prototype-flush.png)
 
+![lime-mortar-prototype-large-compressor.jpg](/uploads/lime-mortar-prototype-large-compressor.jpg)
+
 [View the site](https://uselimemortar.com/)
 
 > "Tom is very efficient and professional. He understood very quickly what the project was aiming to achieve and was able to suggest innovative and well-designed interfaces that has made the prototype and website easier to use. His valuable contributions has made the online tool developed more accessible for users and overall more successful."
