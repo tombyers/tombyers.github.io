@@ -16,9 +16,7 @@ The trouble in designing forms is the sheer number of decisions involved.
 **End user**
 
 * Who will enter the information?
-
 * In what context?
-
 * Do they have the information? If not, where will they find it? 
 
 **Content**
